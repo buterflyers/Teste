@@ -1,0 +1,18 @@
+Alguns dos Códigos utilizados em Programação pelo terminal:
+
+
+Winkey + R → Abre uma janela que solicita um comando (cmd) 
+
+cmd → Abreviação de Command. É inserido para Abrir o Terminal.
+
+    • dir → Permite a visualização das pastas dentro do diretório.
+    • cd Nome do Diretório→ Permite a entrada na Pasta do reposítório atual consultado.
+    • cd .. → Permite sair do Repositório Atual após finalizar o trabalho.
+    • mkdir nomeNovo Diretório→ Permite que uma Nova Pasta seja criada com este nome. 
+    • tree → Mostra a Estrutura de Pastas dentro do Repositório Atual (Lista a Árvore de Diretórios).
+    • ctrl + C → Encerra (finaliza) a execução de uma Linha de Comando.
+    • move NomeArquivoparaOndeSeráMovido →Ele Move (Transporta) o arquivo nomeArquivo para a Pasta paraOndeSeráMovido. 
+    • rmdir repositorioVazio → Deleta o Repositório Vazio.
+    • rmdir /s nomeRepositorio → Deleta a Pasta nomeRepositório com todos os seus conteúdos.
+
+
